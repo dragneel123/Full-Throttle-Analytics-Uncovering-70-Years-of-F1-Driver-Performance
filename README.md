@@ -1,6 +1,6 @@
 # 🏁 Full Throttle Analytics: Uncovering 70 Years of F1 Driver Performance
 
-Welcome to **Full Throttle Analytics**, a Python-powered data science project analyzing driver performance across the history of Formula 1 (1950–2020). Using real-world data from Kaggle, this project explores driver trends, dominance eras, and comparative metrics to highlight what makes F1 legends stand out.
+Welcome to **Full Throttle Analytics**, a Python-powered data science project analyzing driver performance across the history of Formula 1 (1950–2020). Using real-world data in this project explores driver trends, dominance eras, and comparative metrics to highlight what makes F1 legends stand out.
 
 ---
 
